@@ -1,7 +1,7 @@
 name: ErisosTrash
 version: '${project.version}'
 main: me.erisos.erisostrash.ErisosTrash
-api-version: '1.19'
+api-version: '1.16'
 commands:
   trash:
     description: Open trash box.
