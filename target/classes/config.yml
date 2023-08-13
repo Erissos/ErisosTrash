@@ -1,0 +1,26 @@
+# █▀▀█ █░░█ █▀▀ ▀▀█ █░░ █░░█ ░ █▀▀▄ █▀▀ ▀▀█▀▀
+# █░░█ █░░█ █▀▀ ▄▀░ █░░ █▄▄█ ▄ █░░█ █▀▀ ░░█░░
+# ▀▀▀█ ░▀▀▀ ▀▀▀ ▀▀▀ ▀▀▀ ▄▄▄█ █ ▀░░▀ ▀▀▀ ░░▀░░
+
+# Discord: erisos
+
+
+prefix: '&fQuezly &8» '
+#Ön ek sonuna bir boşluk bırakmayı unutmayın.
+#Don't forget to put a space at the end of the prefix.
+
+menu_name: '  &8➤ &8&nÇöp Kutusu'
+#Çöp kutusu menü ismi.
+#Trash menu name.
+
+open_message: '&aÇöp Kutusu başarıyla açıldı!'
+#/trash veya /çöp komutunu kullandığınız da gönderilecek mesaj.
+#The message to be sent when you use the /trash command.
+
+menu_size: 27
+# Menü boyutu 9, 18, 27, 36, 45, 54 olabilir.
+# Menu size can be 9, 18, 27, 36, 45, 54.
+
+perm_message: '&cBu komutu kullanmak için gerekli yetkiye sahip değilsin!'
+#Yetkin yok mesajı.
+#Not Permission message.

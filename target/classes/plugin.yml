@@ -1,0 +1,9 @@
+name: ErisosTrash
+version: '1.0-SNAPSHOT'
+main: me.erisos.erisostrash.ErisosTrash
+api-version: '1.19'
+commands:
+  trash:
+    description: Open trash box.
+  çöp:
+    description: Open trash box.
